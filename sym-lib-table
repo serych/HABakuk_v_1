@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name SPV1040T)(type Legacy)(uri D:/Users/serych/SVN/Bastlení/KiCAD/HABakuk_v1.0/libraries/SPV1040T.lib)(options "")(descr ""))
+  (lib (name Si5351A)(type Legacy)(uri D:/Users/serych/SVN/Bastlení/KiCAD/HABakuk_v1.0/libraries/Si5351A.lib)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri D:/Users/serych/SVN/Bastlení/KiCAD/HABakuk_v1.0/libraries/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name TMP36)(type Legacy)(uri D:/Users/serych/SVN/Bastlení/KiCAD/HABakuk_v1.0/libraries/TMP36.lib)(options "")(descr ""))
+  (lib (name HABakuk_v1.0-rescue)(type Legacy)(uri D:/Users/serych/SVN/Bastlení/KiCAD/HABakuk_v1.0/libraries/HABakuk_v1.0-rescue.lib)(options "")(descr ""))
+)
